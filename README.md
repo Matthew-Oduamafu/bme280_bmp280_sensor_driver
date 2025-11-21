@@ -212,7 +212,6 @@ All main functions return `HAL_StatusTypeDef` (e.g. `HAL_OK`, `HAL_ERROR`). You 
 
 ### License
 
-> TODO: Add your chosen license (e.g. MIT, BSD-3-Clause, Apache-2.0) in a `LICENSE` file and reference it here.
 
 ### Possible Improvements
 
